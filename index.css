@@ -1,1 +1,17 @@
+body{
+    background-color: black;
+}
 
+#menu{
+    background-color: white;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    align-items: left;
+    padding: 2px;
+   
+}
+
+h1{
+ 
+}
