@@ -396,7 +396,7 @@ p {
 /* General */
 
 .container {
-  margin-left: 7em;
+  margin-left: ;
   /* margin-right: auto; */
   margin-top: 0px;
   margin-bottom: 0px;
@@ -896,7 +896,7 @@ p {
 
 .syllabus-inner {
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 200px;
   display: grid;
   max-width: 800px;
   align-items: center;
@@ -1564,7 +1564,7 @@ p {
 }
 
 .questions-img {
-  
+  margin-left: 20%;
   position: relative;
 }
 
@@ -1654,6 +1654,7 @@ p {
 
 footer {
   padding-top: 4vh;
+
 }
 
 .footer-top {
